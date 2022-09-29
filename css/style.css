@@ -52,4 +52,17 @@ li > a {
   justify-content: space-between;
 }
 
+.titile-text {
+  font-size: 25px;
+}
+
+/* dhasboard */
+.card-title {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.icon {
+  font-size: 20px;
+}
 /* main content */
