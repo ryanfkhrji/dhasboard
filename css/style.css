@@ -65,4 +65,44 @@ li > a {
 .icon {
   font-size: 20px;
 }
+
+/* menu */
+.card-menu {
+  background: #fff;
+  position: relative;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.card-img img {
+  position: relative;
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card-text {
+  font-size: 18px;
+  font-weight: 500;
+  margin: 5px 0;
+}
+
+.card-price {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.cart {
+  padding: 8px;
+  border-radius: 5px;
+  text-align: center;
+  background: #025ce2;
+  cursor: pointer;
+}
+
 /* main content */
+
+/* responsive */
+@media screen and(max-width: 999px) {
+}
